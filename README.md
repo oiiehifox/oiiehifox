@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuotracy&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
 - 🔭 I’m currently working at **Brilliantke**
 
